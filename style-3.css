@@ -1,0 +1,34 @@
+body{
+    background: url(nnn.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+.detail{
+    text-align: center;
+    
+    font-weight: 700;
+    font-size: 27px;
+
+
+padding: 4rem;
+color: white;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+   
+
+}.btn{
+    padding: 13px 60px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: translateY(10rem);
+}

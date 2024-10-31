@@ -1,0 +1,41 @@
+body{
+    background: url(neww.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+}
+.general{
+    text-align: center;
+    margin: 10rem;
+}
+input{
+    margin: 1rem;
+    padding: 7px 60px;
+    direction: rtl;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 1rem;
+    border: 1px solid black;
+}
+.btn{
+    margin: 1rem;
+    padding: 7px 150px;
+    background-color: tomato;
+     font-size: 16px;
+     font-weight: 700;
+     border: none;
+    direction: rtl;
+    color: white;
+    cursor: pointer;
+    border-radius: 1rem;
+
+}h1{
+    text-align: center;
+    transform: translatey(10rem);
+    color: yellow;
+}
+p{
+    font-size: 1000px;
+    color: black;
+}
